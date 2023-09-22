@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Homepage
 ---
 
+#Testing 
+
+This is the Homepage
